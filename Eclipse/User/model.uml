@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_AksfwB9QEeSI_NN7mFzHDw" name="model">
+  <packagedElement xmi:type="uml:PrimitiveType" xmi:id="_C4egQB9QEeSI_NN7mFzHDw" name="Long"/>
+  <packagedElement xmi:type="uml:PrimitiveType" xmi:id="_D9kgEB9QEeSI_NN7mFzHDw" name="String"/>
+  <packagedElement xmi:type="uml:PrimitiveType" xmi:id="_HL75gB9QEeSI_NN7mFzHDw" name="Integer"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_Im5boB9QEeSI_NN7mFzHDw" name="User">
+    <ownedAttribute xmi:id="_KgzjkB9QEeSI_NN7mFzHDw" name="id" visibility="public" type="_C4egQB9QEeSI_NN7mFzHDw">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_MpLlUB9QEeSI_NN7mFzHDw" value="1"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_MpMzcB9QEeSI_NN7mFzHDw" value="1"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_NP5nEB9QEeSI_NN7mFzHDw" name="userName" visibility="public" type="_D9kgEB9QEeSI_NN7mFzHDw">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_OivvAB9QEeSI_NN7mFzHDw" value="1"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_Oiw9IB9QEeSI_NN7mFzHDw" value="1"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_l0VCkFRrEeSokNagNqV61g" name="firstName" type="_D9kgEB9QEeSI_NN7mFzHDw"/>
+    <ownedAttribute xmi:id="_qu10wFRrEeSokNagNqV61g" name="lastName" type="_D9kgEB9QEeSI_NN7mFzHDw"/>
+  </packagedElement>
+</uml:Model>
